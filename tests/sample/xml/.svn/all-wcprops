@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/80/trunk/wwwroot/edmund/tests/sample/xml
+END
+listener.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/62/trunk/wwwroot/edmund/tests/sample/xml/listener.cfc
+END
+edmund.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/80/trunk/wwwroot/edmund/tests/sample/xml/edmund.xml
+END
+index.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/55/trunk/wwwroot/edmund/tests/sample/xml/index.cfm
+END
+Application.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/63/trunk/wwwroot/edmund/tests/sample/xml/Application.cfc
+END
